@@ -4,6 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
     plugins: [solid(), tailwindcss()],
+    base: "idle-dice-2-card-viewer",
     build: {
         outDir: "docs"
     }
