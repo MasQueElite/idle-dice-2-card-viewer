@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+body {
+    padding: 20px 5px 10px 10px;
+    --width: 150px;
+}
+
+#table {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, var(--width));
+    gap: 10px;
+}
+
+.card {
+    max-width: var(--width);
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    white-space: preserve;
+    min-height: 220px;
+    pointer-events: none;
+}
+
+.hide {
+    background-color: lightgray;
+}
+
+.shadow {
+    box-shadow: 5px 5px 12px 0.1px lightgray;
+}
+
+p:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-size: x-large;
+    padding-bottom: 5px;
+    margin: 0 auto;
+    font-weight: 500;
+    user-select: none;
+}
+
+#options {
+    display: flex;
+    align-items: start;
+    width: 100%;
+    gap: 10px;
+    margin-bottom: 0.5rem;
+
+    & > label {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        cursor: pointer;
+    }
+}
+
+textarea {
+    height: 2rem;
+    width: 75vw;
+    border: 1px solid black;
+    resize: both;
+    cursor: auto;
+}

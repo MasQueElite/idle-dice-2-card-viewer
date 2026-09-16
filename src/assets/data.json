@@ -1,0 +1,1222 @@
+[
+    {
+        "name": "1",
+        "desc": [
+            {"text": "+1 Card Progression Multi", "bad": false}
+        ]
+    },
+    {
+        "name": "2",
+        "desc": [
+            {"text": "Card Progression Multi x2", "bad": false}
+        ]
+    },
+    {
+        "name": "3",
+        "desc": [
+            {"text": "All Dice Multi x3", "bad": false}
+        ]
+    },
+    {
+        "name": "4",
+        "desc": [
+            {"text": "+4 Ascension cost reduction (Compounding)", "bad": false}
+        ]
+    },
+    {
+        "name": "5",
+        "desc": [
+            {"text": "Combo Multi x5", "bad": false}
+        ]
+    },
+    {
+        "name": "6",
+        "desc": [
+            {"text": "Fifth Dice Multi x6", "bad": false}
+        ]
+    },
+    {
+        "name": "7",
+        "desc": [
+            {"text": "Fourth Dice Multi x7", "bad": false}
+        ]
+    },
+    {
+        "name": "8",
+        "desc": [
+            {"text": "Third Dice Multi x8", "bad": false}
+        ]
+    },
+    {
+        "name": "9",
+        "desc": [
+            {"text": "Second Dice Multi x9", "bad": false}
+        ]
+    },
+    {
+        "name": "10",
+        "desc": [
+            {"text": "First Dice Multi x10", "bad": false}
+        ]
+    },
+    {
+        "name": "11",
+        "desc": [
+            {"text": "Sixth Dice Multi x11", "bad": false}
+        ]
+    },
+    {
+        "name": "12",
+        "desc": [
+            {"text": "Seventh Dice Multi x12", "bad": false}
+        ]
+    },
+    {
+        "name": "13",
+        "desc": [
+            {"text": "Eighth Dice Multi x13", "bad": false}
+        ]
+    },
+    {
+        "name": "14",
+        "desc": [
+            {"text": "Ninth Dice Multi x14", "bad": false}
+        ]
+    },
+    {
+        "name": "15",
+        "desc": [
+            {"text": "Tenth Dice Multi x15", "bad": false}
+        ]
+    },
+    {
+        "name": "20",
+        "desc": [
+            {"text": "Whenever you roll a twopair Combo, +0.002 AutoRoll Speed (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "21",
+        "desc": [
+            {"text": "Eleventh Dice Multi x21", "bad": false}
+        ]
+    },
+    {
+        "name": "22",
+        "desc": [
+            {"text": "Twelfth Dice Multi x22", "bad": false}
+        ]
+    },
+    {
+        "name": "23",
+        "desc": [
+            {"text": "Thirteenth Dice Multi x23", "bad": false}
+        ]
+    },
+    {
+        "name": "24",
+        "desc": [
+            {"text": "Fourteenth Dice Multi x24", "bad": false}
+        ]
+    },
+    {
+        "name": "25",
+        "desc": [
+            {"text": "Fifteenth Dice Multi x25", "bad": false}
+        ]
+    },
+    {
+        "name": "31",
+        "desc": [
+            {"text": "Sixteenth Dice Multi x31", "bad": false}
+        ]
+    },
+    {
+        "name": "32",
+        "desc": [
+            {"text": "Seventeenth Dice Multi x32", "bad": false}
+        ]
+    },
+    {
+        "name": "33",
+        "desc": [
+            {"text": "Eighteenth Dice Multi x33", "bad": false}
+        ]
+    },
+    {
+        "name": "34",
+        "desc": [
+            {"text": "Nineteenth Dice Multi x34", "bad": false}
+        ]
+    },
+    {
+        "name": "35",
+        "desc": [
+            {"text": "Twentieth Dice Multi x35", "bad": false}
+        ]
+    },
+    {
+        "name": "41",
+        "desc": [
+            {"text": "Twenty-First Dice Multi x41", "bad": false}
+        ]
+    },
+    {
+        "name": "42",
+        "desc": [
+            {"text": "Twenty second Dice Multi x42", "bad": false}
+        ]
+    },
+    {
+        "name": "43",
+        "desc": [
+            {"text": "Twenty third Dice Multi x43", "bad": false}
+        ]
+    },
+    {
+        "name": "44",
+        "desc": [
+            {"text": "Twenty fourth Dice Multi x44", "bad": false}
+        ]
+    },
+    {
+        "name": "45",
+        "desc": [
+            {"text": "Twenty fifth Dice Multi x45", "bad": false}
+        ]
+    },
+    {
+        "name": "16",
+        "desc": [
+            {"text": "+0.02 Dice Animation Speed (min 0.2)", "bad": false}
+        ]
+    },
+    {
+        "name": "17",
+        "desc": [
+            {"text": "AutoRoll Speed x0.17 (min 0)", "bad": true},
+            {"text": "All Dice Multi x17", "bad": false}
+        ]
+    },
+    {
+        "name": "18",
+        "desc": [
+            {"text": "+0.18 Dice Multi per Ascension", "bad": false}
+        ]
+    },
+    {
+        "name": "19",
+        "desc": [
+            {"text": "Each minute, +19 Wheel Spins", "bad": false}
+        ]
+    },
+    {
+        "name": "26",
+        "desc": [
+            {"text": "Whenever you roll a pair Combo, +6 Auto Draws", "bad": false}
+        ]
+    },
+    {
+        "name": "52",
+        "desc": [
+            {"text": "+0.01 Card Progression Multi per card in deck", "bad": false}
+        ]
+    },
+    {
+        "name": "69",
+        "desc": [
+            {"text": "Sixth Dice Multi x9", "bad": false},
+            {"text": "Ninth Dice Multi x6", "bad": false}
+        ]
+    },
+    {
+        "name": "111",
+        "desc": [
+            {"text": "+1 Weight to roll a 1 for the first dice row", "bad": false}
+        ]
+    },
+    {
+        "name": "222",
+        "desc": [
+            {"text": "+0.2 Weight to roll a 2 for the second dice row", "bad": false}
+        ]
+    },
+    {
+        "name": "333",
+        "desc": [
+            {"text": "+0.03 Weight to roll a 3 for the third dice row", "bad": false}
+        ]
+    },
+    {
+        "name": "360",
+        "desc": [
+            {"text": "Whenever you roll a four Combo, +3 Wheel Spins", "bad": false}
+        ]
+    },
+    {
+        "name": "404",
+        "desc": [
+            {"text": "Effect not found.", "bad": false}
+        ]
+    },
+    {
+        "name": "420",
+        "desc": [
+            {"text": "-0.1 Dice Animation Speed (min 0.2)", "bad": true},
+            {"text": "Fourth Dice Multi x20", "bad": false},
+            {"text": "Twentieth Dice Multi x4", "bad": false}
+        ]
+    },
+    {
+        "name": "444",
+        "desc": [
+            {"text": "+0.004 Weight to roll a 4 for the fourth dice row", "bad": false}
+        ]
+    },
+    {
+        "name": "524",
+        "desc": [
+            {"text": "+0.1 Ascension cost reduction (Compounding) per card in deck", "bad": false}
+        ]
+    },
+    {
+        "name": "555",
+        "desc": [
+            {"text": "+0.001 Weight to roll a 5 for the fifth dice row", "bad": false}
+        ]
+    },
+    {
+        "name": "666",
+        "desc": [
+            {"text": "+666 All Dice Multi per curse in deck", "bad": false}
+        ]
+    },
+    {
+        "name": "777",
+        "desc": [
+            {"text": "For every 4 777s, +0.78 Curse Prevention Chance (Compounding) (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "778",
+        "desc": [
+            {"text": "+0.003 Curse Prevention Chance (Compounding) per card in deck (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "A",
+        "desc": [
+            {"text": "Whenever you ascend a dice, +1 Wheel Spins", "bad": false}
+        ]
+    },
+    {
+        "name": "ASS",
+        "desc": [
+            {"text": "+0.0001 Auto Spin Speed Multi per Auto Spins (min 0.1)", "bad": false}
+        ]
+    },
+    {
+        "name": "B",
+        "desc": [
+            {"text": "For every 4 Bs, +0.1 Banishment gain on prestige", "bad": false}
+        ]
+    },
+    {
+        "name": "C",
+        "desc": [
+            {"text": "Multi for no combo x20", "bad": false}
+        ]
+    },
+    {
+        "name": "CC",
+        "desc": [
+            {"text": "+(0.02 x Combo Multi) Multi for no combo", "bad": false}
+        ]
+    },
+    {
+        "name": "CD",
+        "desc": [
+            {"text": "Multi for no combo x50", "bad": false},
+            {"text": "Auto Draw Cost x1.15 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "C++",
+        "desc": [
+            {"text": "Multi for no combo x30", "bad": false},
+            {"text": "-1 Curse Prevention Chance (Compounding) (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "D",
+        "desc": [
+            {"text": "Card Progression Multi x1.1", "bad": false},
+            {"text": "Auto Draw Cost x1.15 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "D4",
+        "desc": [
+            {"text": "+0.4 Curse Prevention Chance (Compounding) (min 0)", "bad": false},
+            {"text": "Auto Draw Cost x1.15 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "D6",
+        "desc": [
+            {"text": "+1 Ore Gain", "bad": false},
+            {"text": "Auto Draw Cost x6 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "D8",
+        "desc": [
+            {"text": "+8 Ascension cost reduction (Compounding)", "bad": false},
+            {"text": "Auto Draw Cost x1.15 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "D10",
+        "desc": [
+            {"text": "For every 4 D10s, +0.2 Banishment gain on prestige", "bad": false},
+            {"text": "Auto Draw Cost x10 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "D12",
+        "desc": [
+            {"text": "Wheel Reward Multi x12 (min 0)", "bad": false},
+            {"text": "Auto Draw Cost x1.15 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "D20",
+        "desc": [
+            {"text": "Card Progression Multi x10", "bad": false},
+            {"text": "Auto Draw Cost x20 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "DP",
+        "desc": [
+            {"text": "Prestige Multi x1.5 (min 1)", "bad": false},
+            {"text": "Auto Draw Cost x1.15 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "E",
+        "desc": [
+            {"text": "+0.0001 Multi Spin Efficiency (max 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "F",
+        "desc": [
+            {"text": "Whenever you roll a five Combo, +0.1 Card Progression Multi", "bad": false}
+        ]
+    },
+    {
+        "name": "G",
+        "desc": [
+            {"text": "For every 4 Gs, +1 Gildings Multi", "bad": false}
+        ]
+    },
+    {
+        "name": "GG",
+        "desc": [
+            {"text": "For every 4 GGs, Gildings Multi x1.1", "bad": false}
+        ]
+    },
+    {
+        "name": "H",
+        "desc": [
+            {"text": "For every 4 Hs, +1 Max Offline Time", "bad": false}
+        ]
+    },
+    {
+        "name": "I",
+        "desc": [
+            {"text": "For every 4 Is, +1 Interest", "bad": false}
+        ]
+    },
+    {
+        "name": "J",
+        "desc": [
+            {"text": "+0.2 AutoRoll Speed (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "JA",
+        "desc": [
+            {"text": "+0.1 AutoRoll Speed (min 0)", "bad": false},
+            {"text": "+0.01 Dice Animation Speed (min 0.2)", "bad": false}
+        ]
+    },
+    {
+        "name": "JK",
+        "desc": [
+            {"text": "For every 4 JKs, AutoRoll Speed x10 (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "K",
+        "desc": [
+            {"text": "For every 4 Ks, All Dice Multi x10k", "bad": false}
+        ]
+    },
+    {
+        "name": "M",
+        "desc": [
+            {"text": "+1 Curse Effect Negation (Compounding)", "bad": false},
+            {"text": "-2 Curse Prevention Chance (Compounding) (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "N",
+        "desc": [
+            {"text": "For every 4 Ns, +1 Curse Effect Negation (Compounding)", "bad": false}
+        ]
+    },
+    {
+        "name": "O",
+        "desc": [
+            {"text": "For every 4 Os, +1 Ore Gain", "bad": false}
+        ]
+    },
+    {
+        "name": "P",
+        "desc": [
+            {"text": "+1 Prestige Multi (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "PG",
+        "desc": [
+            {"text": "For every 4 PGs, Gildings Multi x2", "bad": false},
+            {"text": "For every 4 PGs, Prestige Multi x0.5 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "PI",
+        "desc": [
+            {"text": "Whenever you roll a triplet Combo, +0.14 Prestige Multi (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "PP",
+        "desc": [
+            {"text": "For every 4 PPs, Prestige Multi x2 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "Q",
+        "desc": [
+            {"text": "+1 Dice Rows (max 5)", "bad": false}
+        ]
+    },
+    {
+        "name": "R",
+        "desc": [
+            {"text": "+10 Instant Roll chance (Compounding)", "bad": false}
+        ]
+    },
+    {
+        "name": "S",
+        "desc": [
+            {"text": "+1 Wheel Reward Multi (min 0)", "bad": false},
+            {"text": "Whenever you roll a straight Combo, +1 Auto Spins", "bad": false}
+        ]
+    },
+    {
+        "name": "T",
+        "desc": [
+            {"text": "+1 Dice Multi per minute of the current run", "bad": false}
+        ]
+    },
+    {
+        "name": "T2",
+        "desc": [
+            {"text": "+0.001 Dice Multi per minute of the current run (Compounding)", "bad": false}
+        ]
+    },
+    {
+        "name": "T3",
+        "desc": [
+            {"text": "All Dice Multi x30", "bad": false},
+            {"text": "Dice Multi per minute of the current run (Compounding) x0.99", "bad": true}
+        ]
+    },
+    {
+        "name": "T4",
+        "desc": [
+            {"text": "+1 Dice Multi per second since the last roll", "bad": false}
+        ]
+    },
+    {
+        "name": "U",
+        "desc": [
+            {"text": "For every 4 Us, +1 Banishments retained on prestige (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "V",
+        "desc": [
+            {"text": "Copy effects of the card with the highest auto draw priority:", "bad": false}
+        ]
+    },
+    {
+        "name": "W",
+        "desc": [
+            {"text": "+1 Wheel Reward Multi (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "WC",
+        "desc": [
+            {"text": "Wheel Reward Multi x2 (min 0)", "bad": false},
+            {"text": "Card Progression Multi x0.9", "bad": true}
+        ]
+    },
+    {
+        "name": "WWW",
+        "desc": [
+            {"text": "All Dice Multi x0.33", "bad": true},
+            {"text": "For every 4 WWWs, Wheel Reward Multi x3 (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "X",
+        "desc": [
+            {"text": "+0.001 Card Effect Multi", "bad": false}
+        ]
+    },
+    {
+        "name": "Y",
+        "desc": [
+            {"text": "Different random effect every day:", "bad": false}
+        ]
+    },
+    {
+        "name": "Z",
+        "desc": [
+            {"text": "For every 4 Zs, +0.5 Offline Time Multi (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "ZZZ",
+        "desc": [
+            {"text": "For every 4 ZZZs, +0.3 Offline Time Multi (min 1)", "bad": false},
+            {"text": "For every 4 ZZZs, +0.3 Max Offline Time", "bad": false}
+        ]
+    },
+    {
+        "name": "-ZZZ",
+        "desc": [
+            {"text": "For every 4 -ZZZs, -0.3 Offline Time Multi (min 1)", "bad": true},
+            {"text": "For every 4 -ZZZs, -0.3 Max Offline Time", "bad": true}
+        ]
+    },
+    {
+        "name": "-Z",
+        "desc": [
+            {"text": "For every 4 -Zs, -0.5 Offline Time Multi (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "-Y",
+        "desc": [
+            {"text": "Different random effect every day:", "bad": true}
+        ]
+    },
+    {
+        "name": "-X",
+        "desc": [
+            {"text": "-0.001 Card Effect Multi", "bad": true}
+        ]
+    },
+    {
+        "name": "-WWW",
+        "desc": [
+            {"text": "All Dice Multi x3.03", "bad": false},
+            {"text": "For every 4 -WWWs, Wheel Reward Multi x0.33 (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "-WC",
+        "desc": [
+            {"text": "Wheel Reward Multi x0.5 (min 0)", "bad": true},
+            {"text": "Card Progression Multi x1.11", "bad": false}
+        ]
+    },
+    {
+        "name": "-W",
+        "desc": [
+            {"text": "-1 Wheel Reward Multi (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "-V",
+        "desc": [
+            {"text": "Copy effects of the card with the highest auto draw priority:", "bad": true}
+        ]
+    },
+    {
+        "name": "-U",
+        "desc": [
+            {"text": "For every 4 -Us, -1 Banishments retained on prestige (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "-T4",
+        "desc": [
+            {"text": "-1 Dice Multi per second since the last roll", "bad": true}
+        ]
+    },
+    {
+        "name": "-T3",
+        "desc": [
+            {"text": "All Dice Multi x0.03", "bad": true},
+            {"text": "Dice Multi per minute of the current run (Compounding) x1.01", "bad": false}
+        ]
+    },
+    {
+        "name": "-T2",
+        "desc": [
+            {"text": "-0.001 Dice Multi per minute of the current run (Compounding)", "bad": true}
+        ]
+    },
+    {
+        "name": "-T",
+        "desc": [
+            {"text": "-1 Dice Multi per minute of the current run", "bad": true}
+        ]
+    },
+    {
+        "name": "-S",
+        "desc": [
+            {"text": "-1 Wheel Reward Multi (min 0)", "bad": true},
+            {"text": "Whenever you roll a straight Combo, -1 Auto Spins", "bad": true}
+        ]
+    },
+    {
+        "name": "-R",
+        "desc": [
+            {"text": "-10 Instant Roll chance (Compounding)", "bad": true}
+        ]
+    },
+    {
+        "name": "-Q",
+        "desc": [
+            {"text": "-1 Dice Rows (max 5)", "bad": true}
+        ]
+    },
+    {
+        "name": "-PP",
+        "desc": [
+            {"text": "For every 4 -PPs, Prestige Multi x0.5 (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "-PI",
+        "desc": [
+            {"text": "Whenever you roll a triplet Combo, -0.14 Prestige Multi (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "-PG",
+        "desc": [
+            {"text": "For every 4 -PGs, Gildings Multi x0.5", "bad": true},
+            {"text": "For every 4 -PGs, Prestige Multi x2 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-P",
+        "desc": [
+            {"text": "-1 Prestige Multi (min 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "-O",
+        "desc": [
+            {"text": "For every 4 -Os, -1 Ore Gain", "bad": true}
+        ]
+    },
+    {
+        "name": "-N",
+        "desc": [
+            {"text": "For every 4 -Ns, -1 Curse Effect Negation (Compounding)", "bad": true}
+        ]
+    },
+    {
+        "name": "-M",
+        "desc": [
+            {"text": "-1 Curse Effect Negation (Compounding)", "bad": true},
+            {"text": "+2 Curse Prevention Chance (Compounding) (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "-K",
+        "desc": [
+            {"text": "For every 4 -Ks, All Dice Multi x0.0001", "bad": true}
+        ]
+    },
+    {
+        "name": "-JK",
+        "desc": [
+            {"text": "For every 4 -JKs, AutoRoll Speed x0.1 (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "-JA",
+        "desc": [
+            {"text": "-0.1 AutoRoll Speed (min 0)", "bad": true},
+            {"text": "-0.01 Dice Animation Speed (min 0.2)", "bad": true}
+        ]
+    },
+    {
+        "name": "-J",
+        "desc": [
+            {"text": "-0.2 AutoRoll Speed (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "-I",
+        "desc": [
+            {"text": "For every 4 -Is, -1 Interest", "bad": true}
+        ]
+    },
+    {
+        "name": "-H",
+        "desc": [
+            {"text": "For every 4 -Hs, -1 Max Offline Time", "bad": true}
+        ]
+    },
+    {
+        "name": "-GG",
+        "desc": [
+            {"text": "For every 4 -GGs, Gildings Multi x0.91", "bad": true}
+        ]
+    },
+    {
+        "name": "-G",
+        "desc": [
+            {"text": "For every 4 -Gs, -1 Gildings Multi", "bad": true}
+        ]
+    },
+    {
+        "name": "-F",
+        "desc": [
+            {"text": "Whenever you roll a five Combo, -0.1 Card Progression Multi", "bad": true}
+        ]
+    },
+    {
+        "name": "-E",
+        "desc": [
+            {"text": "-0.0001 Multi Spin Efficiency (max 1)", "bad": true}
+        ]
+    },
+    {
+        "name": "-DP",
+        "desc": [
+            {"text": "Prestige Multi x0.67 (min 1)", "bad": true},
+            {"text": "Auto Draw Cost x0.87 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-D20",
+        "desc": [
+            {"text": "Card Progression Multi x0.1", "bad": true},
+            {"text": "Auto Draw Cost x0.05 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-D12",
+        "desc": [
+            {"text": "Wheel Reward Multi x0.08 (min 0)", "bad": true},
+            {"text": "Auto Draw Cost x0.87 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-D10",
+        "desc": [
+            {"text": "For every 4 -D10s, -0.2 Banishment gain on prestige", "bad": true},
+            {"text": "Auto Draw Cost x0.1 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-D8",
+        "desc": [
+            {"text": "-8 Ascension cost reduction (Compounding)", "bad": true},
+            {"text": "Auto Draw Cost x0.87 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-D6",
+        "desc": [
+            {"text": "-1 Ore Gain", "bad": true},
+            {"text": "Auto Draw Cost x0.17 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-D4",
+        "desc": [
+            {"text": "-0.4 Curse Prevention Chance (Compounding) (min 0)", "bad": true},
+            {"text": "Auto Draw Cost x0.87 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-D",
+        "desc": [
+            {"text": "Card Progression Multi x0.91", "bad": true},
+            {"text": "Auto Draw Cost x0.87 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-C++",
+        "desc": [
+            {"text": "Multi for no combo x0.03", "bad": true},
+            {"text": "+1 Curse Prevention Chance (Compounding) (min 0)", "bad": false}
+        ]
+    },
+    {
+        "name": "-CD",
+        "desc": [
+            {"text": "Multi for no combo x0.02", "bad": true},
+            {"text": "Auto Draw Cost x0.87 (min 1)", "bad": false}
+        ]
+    },
+    {
+        "name": "-CC",
+        "desc": [
+            {"text": "(-0.02 x Combo Multi) Multi for no combo", "bad": true}
+        ]
+    },
+    {
+        "name": "-C",
+        "desc": [
+            {"text": "Multi for no combo x0.05", "bad": true}
+        ]
+    },
+    {
+        "name": "-B",
+        "desc": [
+            {"text": "For every 4 -Bs, -0.1 Banishment gain on prestige", "bad": true}
+        ]
+    },
+    {
+        "name": "-ASS",
+        "desc": [
+            {"text": "-0.0001 Auto Spin Speed Multi per Auto Spins (min 0.1)", "bad": true}
+        ]
+    },
+    {
+        "name": "-A",
+        "desc": [
+            {"text": "Whenever you ascend a dice, -1 Wheel Spins", "bad": true}
+        ]
+    },
+    {
+        "name": "-778",
+        "desc": [
+            {"text": "-0.003 Curse Prevention Chance (Compounding) per card in deck (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "-777",
+        "desc": [
+            {"text": "For every 4 -777s, -0.78 Curse Prevention Chance (Compounding) (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "-666",
+        "desc": [
+            {"text": "-666 All Dice Multi per curse in deck", "bad": true}
+        ]
+    },
+    {
+        "name": "-555",
+        "desc": [
+            {"text": "-0.001 Weight to roll a 5 for the fifth dice row", "bad": true}
+        ]
+    },
+    {
+        "name": "-524",
+        "desc": [
+            {"text": "-0.1 Ascension cost reduction (Compounding) per card in deck", "bad": true}
+        ]
+    },
+    {
+        "name": "-444",
+        "desc": [
+            {"text": "-0.004 Weight to roll a 4 for the fourth dice row", "bad": true}
+        ]
+    },
+    {
+        "name": "-420",
+        "desc": [
+            {"text": "+0.1 Dice Animation Speed (min 0.2)", "bad": false},
+            {"text": "Fourth Dice Multi x0.05", "bad": true},
+            {"text": "Twentieth Dice Multi x0.25", "bad": true}
+        ]
+    },
+    {
+        "name": "-404",
+        "desc": [
+            {"text": "Effect not found.", "bad": false}
+        ]
+    },
+    {
+        "name": "-360",
+        "desc": [
+            {"text": "Whenever you roll a four Combo, -3 Wheel Spins", "bad": true}
+        ]
+    },
+    {
+        "name": "-333",
+        "desc": [
+            {"text": "-0.03 Weight to roll a 3 for the third dice row", "bad": true}
+        ]
+    },
+    {
+        "name": "-222",
+        "desc": [
+            {"text": "-0.2 Weight to roll a 2 for the second dice row", "bad": true}
+        ]
+    },
+    {
+        "name": "-111",
+        "desc": [
+            {"text": "-1 Weight to roll a 1 for the first dice row", "bad": true}
+        ]
+    },
+    {
+        "name": "-69",
+        "desc": [
+            {"text": "Sixth Dice Multi x0.11", "bad": true},
+            {"text": "Ninth Dice Multi x0.17", "bad": true}
+        ]
+    },
+    {
+        "name": "-52",
+        "desc": [
+            {"text": "-0.01 Card Progression Multi per card in deck", "bad": true}
+        ]
+    },
+    {
+        "name": "-26",
+        "desc": [
+            {"text": "Whenever you roll a pair Combo, -6 Auto Draws", "bad": true}
+        ]
+    },
+    {
+        "name": "-19",
+        "desc": [
+            {"text": "Each minute, -19 Wheel Spins", "bad": true}
+        ]
+    },
+    {
+        "name": "-18",
+        "desc": [
+            {"text": "-0.18 Dice Multi per Ascension", "bad": true}
+        ]
+    },
+    {
+        "name": "-17",
+        "desc": [
+            {"text": "AutoRoll Speed x5.88 (min 0)", "bad": false},
+            {"text": "All Dice Multi x0.06", "bad": true}
+        ]
+    },
+    {
+        "name": "-16",
+        "desc": [
+            {"text": "-0.02 Dice Animation Speed (min 0.2)", "bad": true}
+        ]
+    },
+    {
+        "name": "-45",
+        "desc": [
+            {"text": "Twenty fifth Dice Multi x0.02", "bad": true}
+        ]
+    },
+    {
+        "name": "-44",
+        "desc": [
+            {"text": "Twenty fourth Dice Multi x0.02", "bad": true}
+        ]
+    },
+    {
+        "name": "-43",
+        "desc": [
+            {"text": "Twenty third Dice Multi x0.02", "bad": true}
+        ]
+    },
+    {
+        "name": "-42",
+        "desc": [
+            {"text": "Twenty second Dice Multi x0.02", "bad": true}
+        ]
+    },
+    {
+        "name": "-41",
+        "desc": [
+            {"text": "Twenty-First Dice Multi x0.02", "bad": true}
+        ]
+    },
+    {
+        "name": "-35",
+        "desc": [
+            {"text": "Twentieth Dice Multi x0.03", "bad": true}
+        ]
+    },
+    {
+        "name": "-34",
+        "desc": [
+            {"text": "Nineteenth Dice Multi x0.03", "bad": true}
+        ]
+    },
+    {
+        "name": "-33",
+        "desc": [
+            {"text": "Eighteenth Dice Multi x0.03", "bad": true}
+        ]
+    },
+    {
+        "name": "-32",
+        "desc": [
+            {"text": "Seventeenth Dice Multi x0.03", "bad": true}
+        ]
+    },
+    {
+        "name": "-31",
+        "desc": [
+            {"text": "Sixteenth Dice Multi x0.03", "bad": true}
+        ]
+    },
+    {
+        "name": "-25",
+        "desc": [
+            {"text": "Fifteenth Dice Multi x0.04", "bad": true}
+        ]
+    },
+    {
+        "name": "-24",
+        "desc": [
+            {"text": "Fourteenth Dice Multi x0.04", "bad": true}
+        ]
+    },
+    {
+        "name": "-23",
+        "desc": [
+            {"text": "Thirteenth Dice Multi x0.04", "bad": true}
+        ]
+    },
+    {
+        "name": "-22",
+        "desc": [
+            {"text": "Twelfth Dice Multi x0.05", "bad": true}
+        ]
+    },
+    {
+        "name": "-21",
+        "desc": [
+            {"text": "Eleventh Dice Multi x0.05", "bad": true}
+        ]
+    },
+    {
+        "name": "-20",
+        "desc": [
+            {"text": "Whenever you roll a twopair Combo, -0.002 AutoRoll Speed (min 0)", "bad": true}
+        ]
+    },
+    {
+        "name": "-15",
+        "desc": [
+            {"text": "Tenth Dice Multi x0.07", "bad": true}
+        ]
+    },
+    {
+        "name": "-14",
+        "desc": [
+            {"text": "Ninth Dice Multi x0.07", "bad": true}
+        ]
+    },
+    {
+        "name": "-13",
+        "desc": [
+            {"text": "Eighth Dice Multi x0.08", "bad": true}
+        ]
+    },
+    {
+        "name": "-12",
+        "desc": [
+            {"text": "Seventh Dice Multi x0.08", "bad": true}
+        ]
+    },
+    {
+        "name": "-11",
+        "desc": [
+            {"text": "Sixth Dice Multi x0.09", "bad": true}
+        ]
+    },
+    {
+        "name": "-10",
+        "desc": [
+            {"text": "First Dice Multi x0.1", "bad": true}
+        ]
+    },
+    {
+        "name": "-9",
+        "desc": [
+            {"text": "Second Dice Multi x0.11", "bad": true}
+        ]
+    },
+    {
+        "name": "-8",
+        "desc": [
+            {"text": "Third Dice Multi x0.13", "bad": true}
+        ]
+    },
+    {
+        "name": "-7",
+        "desc": [
+            {"text": "Fourth Dice Multi x0.14", "bad": true}
+        ]
+    },
+    {
+        "name": "-6",
+        "desc": [
+            {"text": "Fifth Dice Multi x0.17", "bad": true}
+        ]
+    },
+    {
+        "name": "-5",
+        "desc": [
+            {"text": "Combo Multi x0.2", "bad": true}
+        ]
+    },
+    {
+        "name": "-4",
+        "desc": [
+            {"text": "-4 Ascension cost reduction (Compounding)", "bad": true}
+        ]
+    },
+    {
+        "name": "-3",
+        "desc": [
+            {"text": "All Dice Multi x0.33", "bad": true}
+        ]
+    },
+    {
+        "name": "-2",
+        "desc": [
+            {"text": "Card Progression Multi x0.5", "bad": true}
+        ]
+    },
+    {
+        "name": "-1",
+        "desc": [
+            {"text": "-1 Card Progression Multi", "bad": true}
+        ]
+    }
+]
